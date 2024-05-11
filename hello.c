@@ -12,7 +12,7 @@ int main() {
 	printf("What is your name? ");
 	char name[30];
 	scanf("%s", name);
-
+	printf("Nice to meet you %s\n", name);
 
 
 }
